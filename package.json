@@ -1,0 +1,24 @@
+{
+  "name": "api-alurabooks-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malusinsso/allbooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malusinsso/allbooks/issues"
+  },
+  "homepage": "https://github.com/malusinsso/allbooks#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mocha": "^11.1.0"
+  }
+}
